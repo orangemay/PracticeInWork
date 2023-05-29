@@ -35,23 +35,6 @@ public class Main1 {
             sc.nextLine();
         }
 
-        //     if (card == 1) {
-        //         yellowCards[player]++;
-        //         if (yellowCards[player] == 2) {
-        //             quit.add(player);
-        //         }
-        //     } else if (card == 2) {
-        //         redCards[player] = true;
-        //         quit.add(player);
-        //     } else if (card == 3) {
-        //         if (quit.contains(player)) {
-        //             results.add("Yes");
-        //         } else {
-        //             results.add("No");
-        //         }
-        //     }
-        // }
-
         for (var a: results) {
             System.out.println(a);
         }
